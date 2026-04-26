@@ -21,7 +21,10 @@ projects:
 social_media:
   linkedin: dasariusha
   email: dasariusha45@gmail.com
-  resume: /Resume.pdf
+  <br>
+<a href="./Usha_Rani_Resume.pdf" target="_blank" style="display: inline-block; background-color: #24292e; color: white; padding: 8px 16px; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: bold; margin-top: 10px;">
+    📄 Download Resume
+</a>
 topics:
   - name: Power BI
     web_url: https://github.com/topics/powerbi
